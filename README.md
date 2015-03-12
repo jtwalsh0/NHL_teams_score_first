@@ -17,3 +17,7 @@ Goals are hard to come by in hockey.  Each time a team scores, its probability o
 I collected data using A.C. Thomas and Sam Ventura's [nhlscrapR](http://cran.r-project.org/web/packages/nhlscrapr/index.html) package and stored it in a Postgres server.  I only used games starting in the 2005-2006 season, when the NHL eliminated ties, and the first 1,010 games of each regular season for fair comparisons (Nashville and San Jose will play the [1,012th game](http://www.nhl.com/gamecenter/en/preview?id=2014021012) of the regular season tonight.)
 
 This repository contains the SQL queries that I used to generate the results.  The first query identifies the winner and loser and whether the game was decided after regulation; the second query adds the team that scores first; and the third query counts wins, losses, and OT wins for each team in each season by whether that team scored first.
+
+Are the Bruins especially good when scoring first?  No.  Of the 30 teams in the NHL, 22 have a bigger win gap between when they score first and when they don't.  The biggest gap the Bruins have posted, 42.8% in 2007-2008, barely makes the top 75 win gaps in the dataset (out of more than 230).
+
+This confirms that, for most teams, scoring the first goal has a huge impact on who wins.
