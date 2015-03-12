@@ -8,7 +8,7 @@ On March 11, 2015, Greg Wyshinski of Yahoo's [Puck Daddy](http://sports.yahoo.co
 
 This reminds me of a TSN tweet from a couple years ago:
 
-![TSN tweet](https://twitter.com/jtwalsh0/status/138826606801207296?s=03)
+![TSN tweet](https://raw.githubusercontent.com/jtwalsh0/NHL_teams_score_first/master/TSN_tweet.png)
 
 Neither tweet gave a baseline for comparison, and without context, the numbers sound more impressive than they are.    
 
