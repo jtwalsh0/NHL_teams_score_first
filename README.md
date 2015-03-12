@@ -21,3 +21,5 @@ This repository contains the SQL queries that I used to generate the results.  T
 Are the Bruins especially good when scoring first?  No.  Of the 30 teams in the NHL, 22 have a bigger win gap between when they score first and when they don't.  The biggest gap the Bruins have posted, 42.8% in 2007-2008, barely makes the top 75 win gaps in the dataset (out of more than 230).
 
 This confirms that, for most teams, scoring the first goal has a huge impact on who wins.
+
+Another note of interest: the 2014-2015 NY Islanders are the only team that post a higher winning percentage when their opponent scores the first goal.
